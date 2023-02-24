@@ -11,7 +11,7 @@ export const data = [
     {
         id:2,
         name:"Milestii Mici",
-        image:"https://wineofmoldova.ro/wp-content/uploads/2020/05/MilestiiMici12-1.png",
+        image:"https://cdn11.bigcommerce.com/s-7a906/images/stencil/1280x1280/products/10844/9946/Milestii-Mici-Moldova-White__46676.1571933694.jpg?c=2",
         description:"White Sparkling Wine Produced according to charmat method, by blending white wines of eruptoean variety. The wine has a straw-yellow color, with a fine and persistent pearl. The bouquet is complex, with delicate shades of wild flowers. The harmonious taste is successfully matched with light appetizers, soft cheeses.",
         price:10.21,
         searchTerm:"Sparkling",
